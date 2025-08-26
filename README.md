@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning react<br>👯 I’m looking to collaborate as software developer<br>📫 How to reach me: anjalisaini2224@gmail.com<br>⚡ Fun fact: I am foody software developer 🍕 🍔.<br>
+🌱 I’m currently learning react<br>👯 I’m looking to collaborate as software developer<br>📫 How to reach me: 1234abhishekk@gmail.com<br>⚡ Fun fact: I am foody software developer 🍕 🍔.<br>
 
 
 ## 🌐 Socials:
